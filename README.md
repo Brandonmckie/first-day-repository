@@ -1,1 +1,3 @@
-# first-day-repository
+# My first repository
+
+My first day coding in class
